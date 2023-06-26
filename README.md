@@ -5,7 +5,7 @@ I am currently working as a Freelancer form home. I enjoy developing websites th
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
 
-- 🔭 I’m currently working on making e-Commerce or Personal Business Websites 
+- 🔭 I’m currently working on making e-Commerce and Personal Business Websites 
 - 🌱 I’m currently learning Image processing for my thesis(I study in Computer Science and Engineering in AUST university) 
 - 📫 How to reach me: adnanimranul005@gmail.com 
 - ⚡ Fun fact: Education is a SCAM
