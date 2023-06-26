@@ -37,10 +37,10 @@ I am currently working as a Freelancer form home. I enjoy developing websites th
   
 <br/>
 <br/>
-
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdnanSalazzar)  
 
-
+-->
 
 
 
