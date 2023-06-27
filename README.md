@@ -1,6 +1,6 @@
 ### Hey what's cooking 🥳, My name is Adnan , you can call me Hikari!
 #### I am a self-taught Web Developer. Here to make your life easier ;)
-I am currently working as a Freelancer form home. I enjoy developing Landing Page Web Development, psd/figma to HTML CSS JS and building Portfolio to make your life easier. 
+I am currently working as a Freelancer form home. I enjoy developing Landing Page Web Development, psd/figma to HTML CSS JS and building Portfolio 
 <!--
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
