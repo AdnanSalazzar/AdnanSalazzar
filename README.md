@@ -1,12 +1,11 @@
 ### Hey what's cooking 🥳, My name is Adnan , you can call me Hikari!
 #### I am a self-taught Web Developer. Here to make your life easier ;)
-I am currently working as a Freelancer form home.
--I enjoy developing Landing Page Web Development, psd/figma to HTML CSS JS and building Portfolio 
+I am currently working as a Freelancer form home. I am available 24/7 ! Just Knock !
 <!--
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
 
-- 🔭 I’m currently working on making e-Commerce and Personal Business Websites 
+- 🔭 I enjoy developing Landing Page Web Development, psd/figma to HTML CSS JS and building Portfolio for you
 - 🌱 I’m currently learning Image processing for my thesis(I study in Computer Science and Engineering in AUST university) 
 - 📫 How to reach me: adnanimranul005@gmail.com 
 - ⚡ Fun fact: Education is a SCAM
