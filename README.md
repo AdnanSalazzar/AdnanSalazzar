@@ -17,7 +17,7 @@ I will make pixel perfect Landing Pages from Figma For You. I am available 24/7 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="45px" width="45px"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="45px" width="45px"/> </a> 
-    <a href="" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dsissel.shopify-liquid&psig=AOvVaw1Epvad3_e8LBFAsWmLanAk&ust=1701403872111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjYlr7t6oIDFQAAAAAdAAAAABAO)" height="45px" width="45px"/> </a> 
+    
 </p>
 
 <p align="left">
