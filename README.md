@@ -1,11 +1,11 @@
 ### Hey what's cooking 🥳, My name is Adnan , you can call me Hikari!
 #### I am a self-taught Web Developer. Here to make your life easier ;)
-I will make pixel perfect Landing Pages from Figma For You. I am available 24/7 ! Just Knock !
+I will make pixel-perfect Landing Pages from Figma For You. Or Create A CUSTOM SHOPIFY stores from top to bottom for you.I am available 24/7 ! Just Knock !
 <!--
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
 
-- 🔭 I enjoy developing Landing Page,UI/UX,Web Development, psd/figma to Live Website and building Portfolio for you
+- 🔭 I enjoy developing Landing Page,UI/UX,Web Development, psd/figma to Live Website and building Portfolio, Create A CUSTOM SHOPIFY stores for you
 - 🌱 I’m currently learning Image processing for my thesis(I study in Computer Science and Engineering in AUST university) 
 - 📫 How to reach me: adnanimranul005@gmail.com 
 - ⚡ Fun fact: Education is a SCAM
