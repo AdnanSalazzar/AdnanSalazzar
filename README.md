@@ -1,14 +1,14 @@
-### Hey what's cooking 🥳, My name is Adnan , you can call me Hikari!
-#### I am a self-taught Web Developer. Here to make your life easier ;)
-I will make pixel-perfect Landing Pages from Figma For You. Or Create A CUSTOM SHOPIFY stores from top to bottom for you.I am available 24/7 ! Just Knock !
+Hello, my name is Adnan
+
+I have successfully completed my Bachelor's degree in Computer Science and Engineering from AUST University. With a robust foundation in this discipline, I am now pursuing a position as a Research Assistant. My professional expertise lies in the field of Computer Vision, where I have developed a comprehensive understanding and practical experience in various image processing techniques. This specialization equips me to contribute effectively to advanced research projects and innovative developments within this domain.
 <!--
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
 
 - 🔭 I enjoy developing Landing Page,UI/UX,Web Development, psd/figma to Live Website and building Portfolio, Create A CUSTOM SHOPIFY stores for you
-- 🌱 I’m currently learning Image processing for my thesis(I study in Computer Science and Engineering in AUST university) 
+- 🌱 I am now pursuing a Research Assistant position, leveraging my Computer Vision expertise to contribute to a wide range of advanced research projects and innovative developments.
 - 📫 How to reach me: adnanimranul005@gmail.com 
-- ⚡ Fun fact: Education is a SCAM
+  
 
 ## 🚀 Languages and Tools:
 
