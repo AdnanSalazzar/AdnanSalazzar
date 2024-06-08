@@ -4,7 +4,7 @@ I have successfully completed my Bachelor's degree in Computer Science and Engin
 <!--
 <p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
 -->
-- 🌱 I am now pursuing a Research Assistant position, leveraging my Computer Vision expertise to contribute to various advanced research projects and innovative developments.
+- 🌱 I am now pursuing an AI company, leveraging my Computer Vision expertise to contribute to various advanced research projects and innovative developments.
 - 🔭 I enjoy developing Landing Page,UI/UX,Web Development, psd/figma to Live Website and building Portfolio, Create A CUSTOM SHOPIFY stores for you 
 - 📫 How to reach me: adnanimranul005@gmail.com 
   
