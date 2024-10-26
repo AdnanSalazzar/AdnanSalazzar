@@ -1,12 +1,22 @@
-Hello, my name is Adnan
+👋 Hello! I’m Adnan
 
-I have successfully completed my Bachelor's degree in Computer Science and Engineering from AUST University. With a robust foundation in this discipline. My professional expertise lies in Computer Vision, where I have developed a comprehensive understanding and practical experience in various image processing techniques. This specialization equips me to contribute effectively to advanced research projects and innovative developments within this domain.
-<!--
-<p><img align="right" src="https://github.com/AdnanSalazzar/AdnanSalazzar/assets/69186678/a99acc6a-5009-478c-b7b6-34678007de6b" width="390" height="320" margin-bottom="30px" /></p>
--->
-- 🌱 I am now pursuing an AI company, leveraging my Computer Vision expertise to contribute to various advanced research projects and innovative developments.
-- 🔭 I enjoy developing Landing Page,UI/UX,Web Development, psd/figma to Live Website and building Portfolio, Create A CUSTOM SHOPIFY stores for you 
-- 📫 How to reach me: adnanimranul005@gmail.com 
+I hold a Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST). With a solid foundation in this field, I specialize in Computer Vision, where I have developed comprehensive knowledge and practical experience in various image processing techniques. This expertise positions me to contribute effectively to advanced research projects and innovative developments.
+
+🌱 I am passionate about leveraging my Computer Vision skills to advance technology and research.
+
+- Image classification and object detection
+- Image segmentation and feature extraction
+- Utilizing deep learning frameworks for computer vision tasks
+- Implementing machine learning algorithms for real-time image processing
+
+🔭 In addition to my specialization, I enjoy web development, focusing on:
+
+- Creating landing pages and engaging UI/UX designs
+- Converting PSD/Figma designs into fully functional websites
+- Building portfolios that showcase work effectively
+- Developing custom Shopify stores tailored to client needs
+
+📫 How to reach me: adnanimranul005@gmail.com
   
 
 ## 🚀 Languages and Tools:
